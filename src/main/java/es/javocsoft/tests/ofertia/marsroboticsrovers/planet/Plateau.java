@@ -1,5 +1,12 @@
 package es.javocsoft.tests.ofertia.marsroboticsrovers.planet;
 
+/**
+ * 
+ * @author Javier Gonzalez Serrano
+ * @since May, 2015
+ * @version 1.0.0
+ *
+ */
 public class Plateau {
 
 	private Integer xMax;
