@@ -1,8 +1,8 @@
-package es.javocsoft.tests.ofertia.marsroboticsrovers;
+package es.javocsoft.tests.exercise.marsroboticsrovers;
 
-import es.javocsoft.tests.ofertia.marsroboticsrovers.planet.Plateau;
-import es.javocsoft.tests.ofertia.marsroboticsrovers.robotics.Rover;
-import es.javocsoft.tests.ofertia.marsroboticsrovers.robotics.Rover.FACING;
+import es.javocsoft.exercise.marsroboticsrovers.planet.Plateau;
+import es.javocsoft.exercise.marsroboticsrovers.robotics.Rover;
+import es.javocsoft.exercise.marsroboticsrovers.robotics.Rover.FACING;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;

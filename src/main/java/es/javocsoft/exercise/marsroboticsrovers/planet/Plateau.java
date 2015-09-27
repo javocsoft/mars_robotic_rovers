@@ -1,4 +1,4 @@
-package es.javocsoft.tests.ofertia.marsroboticsrovers.planet;
+package es.javocsoft.exercise.marsroboticsrovers.planet;
 
 /**
  * 

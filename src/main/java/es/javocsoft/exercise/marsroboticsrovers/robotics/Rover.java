@@ -1,6 +1,6 @@
-package es.javocsoft.tests.ofertia.marsroboticsrovers.robotics;
+package es.javocsoft.exercise.marsroboticsrovers.robotics;
 
-import es.javocsoft.tests.ofertia.marsroboticsrovers.planet.Plateau;
+import es.javocsoft.exercise.marsroboticsrovers.planet.Plateau;
 
 
 /**

@@ -1,10 +1,10 @@
-package es.javocsoft.tests.ofertia.marsroboticsrovers;
+package es.javocsoft.exercise.marsroboticsrovers;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import es.javocsoft.tests.ofertia.marsroboticsrovers.robotics.Ship;
+import es.javocsoft.exercise.marsroboticsrovers.robotics.Ship;
 
 /**
  * Main program for Mars Rover.

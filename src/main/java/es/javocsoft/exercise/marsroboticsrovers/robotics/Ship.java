@@ -1,10 +1,10 @@
-package es.javocsoft.tests.ofertia.marsroboticsrovers.robotics;
+package es.javocsoft.exercise.marsroboticsrovers.robotics;
 
 import java.util.List;
 
-import es.javocsoft.tests.ofertia.marsroboticsrovers.planet.Plateau;
-import es.javocsoft.tests.ofertia.marsroboticsrovers.robotics.Rover.FACING;
-import es.javocsoft.tests.ofertia.marsroboticsrovers.utils.ConsoleExtractor;
+import es.javocsoft.exercise.marsroboticsrovers.planet.Plateau;
+import es.javocsoft.exercise.marsroboticsrovers.robotics.Rover.FACING;
+import es.javocsoft.exercise.marsroboticsrovers.utils.ConsoleExtractor;
 
 /**
  * The ship.

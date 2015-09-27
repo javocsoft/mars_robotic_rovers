@@ -1,11 +1,11 @@
-package es.javocsoft.tests.ofertia.marsroboticsrovers.utils;
+package es.javocsoft.exercise.marsroboticsrovers.utils;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import es.javocsoft.tests.ofertia.marsroboticsrovers.planet.Plateau;
+import es.javocsoft.exercise.marsroboticsrovers.planet.Plateau;
 
 /**
  * A command prompt line control extractor.
